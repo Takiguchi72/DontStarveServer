@@ -4,8 +4,10 @@ Created on 28 nov. 2015
 @author: takiguchi
 '''
 import argparse
-from main.ArgumentException import ArgumentException
-from main.VariablesGlobales import listeOperations
+# from ArgumentException import ArgumentException
+# from VariablesGlobales import listeOperations
+from pointentree.ArgumentException import ArgumentException
+from pointentree.VariablesGlobales import listeOperations
 
 class Argparser(object):
     '''
